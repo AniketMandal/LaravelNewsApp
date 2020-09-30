@@ -1,4 +1,4 @@
-# LaravelNewsApp
+# LaravelNewsAppprocess
 Android App for the Laravel news website (Unofficial)
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
